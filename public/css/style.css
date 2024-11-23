@@ -1,0 +1,180 @@
+.card-dashboard-icon {
+    font-size: 30px;
+}
+
+.title-index {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.error-message {
+    color: red;
+    font-size: 13px;
+    display: inline;
+}
+
+.required {
+    color: red;
+}
+
+.button-table {
+    padding: 5px 8px;
+    font-size: 12px;
+}
+
+.button-header {
+    padding: 5px 8px;
+    font-size: 15px;
+}
+
+.table-conf th:nth-child(1) {
+    width: 2%;
+}
+
+.table-conf th:nth-child(2) {
+    width: 15%;
+}
+
+.table-conf th:nth-child(3) {
+    width: 9%;
+}
+
+.table-conf th:nth-child(4) {
+    width: 25%;
+}
+
+.table-conf th:nth-child(5) {
+    width: 9%;
+}
+
+.table-conf th:nth-child(6) {
+    width: 5%;
+}
+
+.table-conf-cv th:nth-child(1) {
+    width: 2%;
+}
+
+.table-conf-cv th:nth-child(2) {
+    width: 10%;
+}
+
+.table-conf-cv th:nth-child(3) {
+    width: 2%;
+}
+
+.table-conf-cv th:nth-child(4) {
+    width: 10%;
+}
+
+.table-conf-cv th:nth-child(5) {
+    width: 10%;
+}
+
+.table-conf-cv th:nth-child(6) {
+    width: 5%;
+}
+
+
+.table {
+    border-spacing: 0px;
+}
+
+.table th,
+.table td {
+    padding: 4px 8px;
+}
+
+table.dataTable thead .sorting:before,
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting_asc:before,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_desc:before,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_asc_disabled:before,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:before,
+table.dataTable thead .sorting_desc_disabled:after {
+    position: absolute;
+    top: 0.1em;
+    display: block;
+}
+
+.navegation {
+    font-size: 15px;
+}
+
+.navegation-subtitle {
+    font-size: 15px;
+}
+
+.title-biography {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.biography {
+    text-align: justify;
+}
+
+.label-modal {
+    font-size: 13px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    margin-top: -7px;
+
+}
+
+.select2-selection__rendered {
+    line-height: 31px !important;
+}
+
+.select2-container .select2-selection--single {
+    height: 35px !important;
+}
+
+.select2-selection__arrow {
+    height: 34px !important;
+}
+
+.select2-search {}
+
+.select2-results {
+    background-color: #f7f5f5;
+}
+
+.config-image {
+    border: 1px solid #007BFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    margin-left: 35%;
+}
+
+.icon-image {
+    font-size: 57px;
+    color: #84bffe;
+}
+
+.image-preview {
+    display: none;
+    width: 90%;
+    max-height: 100%;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+
+label.error {
+    color: red; 
+    font-size: 13px;  
+    margin-bottom: 0;
+    font-weight: 200;
+}
+
+
