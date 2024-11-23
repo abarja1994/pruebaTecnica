@@ -16,6 +16,8 @@ email: admin@admin.com
 
 password: 12345678
 
+Versión de PHP 8.2
+
 Follow these steps to set up your Laravel project:
 
 1. **Clone the repository**:
