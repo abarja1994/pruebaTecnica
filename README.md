@@ -10,16 +10,20 @@
 
 ## Installation Steps
 
+##CREDENCIALES 
+email: admin@admin.com
+password: 12345678
+
 Follow these steps to set up your Laravel project:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/your-project.git
+    git clone https://github.com/abarja1994/pruebaTecnica
     ```
 
 2. **Navigate into the project directory**:
     ```bash
-    cd your-project
+    cd pruebaTecnica
     ```
 
 3. **Install the project dependencies**:
@@ -46,12 +50,12 @@ Follow these steps to set up your Laravel project:
     - Make sure you have a database set up for your Laravel application (e.g., MySQL, PostgreSQL).
     - Configure your database settings in the `.env` file:
       ```bash
-      DB_CONNECTION=mysql
-      DB_HOST=127.0.0.1
-      DB_PORT=3306
-      DB_DATABASE=your_database_name
-      DB_USERNAME=your_database_user
-      DB_PASSWORD=your_database_password
+     DB_CONNECTION=mysql
+     DB_HOST=127.0.0.1
+     DB_PORT=3306
+     DB_DATABASE=prueba_tecnica
+     DB_USERNAME=root
+     DB_PASSWORD=
       ```
 
 7. **Run the database migrations**:
