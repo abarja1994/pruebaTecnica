@@ -10,8 +10,10 @@
 
 ## Installation Steps
 
-##CREDENCIALES 
+## CREDENCIALES 
+
 email: admin@admin.com
+
 password: 12345678
 
 Follow these steps to set up your Laravel project:
